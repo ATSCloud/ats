@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="LLLITT"
+           #fetch="ssh://118.163.4.170:9418"
+	   fetch="git@github.com"
+  <default revision="master"
+           remote="LLLITT"/>
+  <!-- BEGIN open-source projects -->
+  <project path="odoo" name="a8992030/odoo" />
+  <!-- END open-source projects -->
+</manifest>
+
