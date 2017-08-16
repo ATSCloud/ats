@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="LLLITT"
-	   fetch="git@github.com"
+  <remote  name="ATS"
+	   fetch="ssh://git@github.com"/>
   <default revision="master"
-           remote="LLLITT"/>
+           remote="ATS"/>
   <!-- BEGIN open-source projects -->
-  <project path="odoo" name="a8992030/odoo" />
+  <project path="odoo" name="a8992030/odoo.git" />
   <!-- END open-source projects -->
 </manifest>
 
