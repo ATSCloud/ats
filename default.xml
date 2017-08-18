@@ -5,7 +5,7 @@
   <default revision="master"
            remote="ATS"/>
   <!-- BEGIN open-source projects -->
-  <project path="odoo" name="ATSCloud/odoo.git" />
+  <project path="odoo" name="ATSCloud/odoo.git" revision="10.0-DEV" />
   <!-- END open-source projects -->
 </manifest>
 
