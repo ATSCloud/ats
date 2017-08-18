@@ -5,7 +5,7 @@
   <default revision="master"
            remote="ATS"/>
   <!-- BEGIN open-source projects -->
-  <project path="odoo" name="a8992030/odoo.git" />
+  <project path="odoo" name="ATSCloud/odoo.git" />
   <!-- END open-source projects -->
 </manifest>
 
