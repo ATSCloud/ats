@@ -6,6 +6,7 @@
            remote="ATS"/>
   <!-- BEGIN open-source projects -->
   <project path="odoo" name="ATSCloud/odoo.git" revision="10.0-DEV" />
+  <project path="PyPXE" name="ATSCloud/PyPXE.git" />
   <!-- END open-source projects -->
 </manifest>
 
